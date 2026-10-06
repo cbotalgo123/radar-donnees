@@ -1,0 +1,34 @@
+{
+ "version": 2,
+ "generated": "2026-10-06",
+ "sitadel": "2026-09",
+ "demo": false,
+ "years": [
+  2026,
+  2027,
+  2028,
+  2029
+ ],
+ "bench": {
+  "households_min": 2000,
+  "laverie": {
+   "far_km": 1.0,
+   "far_median": 0.815,
+   "hh_per_median": 4071.0
+  },
+  "stockage": {
+   "far_km": 5.0,
+   "far_median": 0.658,
+   "hh_per_median": 6372.0
+  },
+  "bornes": {
+   "far_km": 0.5,
+   "far_median": 0.492,
+   "hh_per_median": 161.0
+  },
+  "s1_median": 0.027,
+  "sapp_median": 0.37,
+  "ev_median": 20.6
+ },
+ "count": 34917
+}
